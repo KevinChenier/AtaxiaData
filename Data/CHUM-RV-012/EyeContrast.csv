@@ -1,0 +1,21 @@
+Value.Contrast,Value.ElapsedTime,Value.Letter,Value.Repetitions,Value.Scenario,Value.Success,Value.Time,Value.ToolEnded,Value.TrialID,Value.Type
+,,,,"[""RhythmScene"",""RhythmScene"",""RhythmScene"",""RhythmScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""EyeContrastScene"",""EyeContrastScene"",""EyeContrastScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""VibrationScene"",""VibrationScene"",""VibrationScene""]",,2022-10-12 11:29:15 AM,,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,ApplicationStart
+,0,,4,,,2022-10-12 11:36:25 AM,false,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,EyeContrastConfig
+0.9631938934326172,27091,F,,,true,2022-10-12 11:36:52 AM,,,EyeContrastData
+0.9833972454071045,39635,X,,,true,2022-10-12 11:37:05 AM,,,EyeContrastData
+0.9840973615646362,55533,H,,,true,2022-10-12 11:37:21 AM,,,EyeContrastData
+0.98389732837677,67604,H,,,true,2022-10-12 11:37:33 AM,,,EyeContrastData
+,67604,,4,,,2022-10-12 11:37:33 AM,true,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,EyeContrastConfig
+,0,,4,,,2022-10-12 11:37:37 AM,false,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,EyeContrastConfig
+0.98389732837677,13394,V,,,true,2022-10-12 11:37:51 AM,,,EyeContrastData
+0.9831972122192383,26481,F,,,true,2022-10-12 11:38:04 AM,,,EyeContrastData
+0.9830971956253052,39595,A,,,true,2022-10-12 11:38:17 AM,,,EyeContrastData
+0.9832972288131714,52250,F,,,true,2022-10-12 11:38:30 AM,,,EyeContrastData
+,52251,,4,,,2022-10-12 11:38:30 AM,true,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,EyeContrastConfig
+,0,,4,,,2022-10-12 11:38:33 AM,false,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,EyeContrastConfig
+0.9842973947525024,12196,H,,,true,2022-10-12 11:38:46 AM,,,EyeContrastData
+0.9841973781585693,24100,V,,,true,2022-10-12 11:38:58 AM,,,EyeContrastData
+0.9841973781585693,36031,F,,,true,2022-10-12 11:39:09 AM,,,EyeContrastData
+0.9846974611282349,47503,V,,,true,2022-10-12 11:39:21 AM,,,EyeContrastData
+,47503,,4,,,2022-10-12 11:39:21 AM,true,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,EyeContrastConfig
+,,,,"[""RhythmScene"",""RhythmScene"",""RhythmScene"",""RhythmScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""EyeContrastScene"",""EyeContrastScene"",""EyeContrastScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""VibrationScene"",""VibrationScene"",""VibrationScene""]",,2022-10-12 11:52:13 AM,,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,ApplicationQuit

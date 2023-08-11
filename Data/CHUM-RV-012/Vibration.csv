@@ -1,0 +1,24 @@
+Value.ElapsedTime,Value.Repetitions,Value.Scenario,Value.Time,Value.ToolEnded,Value.TrialID,Value.Type,Value.VibrationStrength
+,,"[""RhythmScene"",""RhythmScene"",""RhythmScene"",""RhythmScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""EyeContrastScene"",""EyeContrastScene"",""EyeContrastScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""VibrationScene"",""VibrationScene"",""VibrationScene""]",2022-10-12 11:29:15 AM,,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,ApplicationStart,
+0,5,,2022-10-12 11:51:22 AM,false,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,VibrationConfig,
+2770,,,2022-10-12 11:51:25 AM,,,VibrationData,0.005500000435858965
+5262,,,2022-10-12 11:51:27 AM,,,VibrationData,0.004500000271946192
+7420,,,2022-10-12 11:51:29 AM,,,VibrationData,0.004500000271946192
+10413,,,2022-10-12 11:51:32 AM,,,VibrationData,0.0060000005178153515
+13017,,,2022-10-12 11:51:35 AM,,,VibrationData,0.005500000435858965
+13017,5,,2022-10-12 11:51:35 AM,true,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,VibrationConfig,
+0,5,,2022-10-12 11:51:42 AM,false,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,VibrationConfig,
+3050,,,2022-10-12 11:51:45 AM,,,VibrationData,0.0060000005178153515
+3064,,,2022-10-12 11:51:45 AM,,,VibrationData,0
+7714,,,2022-10-12 11:51:49 AM,,,VibrationData,0.009000000543892384
+10164,,,2022-10-12 11:51:52 AM,,,VibrationData,0.005000000353902578
+12837,,,2022-10-12 11:51:54 AM,,,VibrationData,0.005500000435858965
+12837,5,,2022-10-12 11:51:54 AM,true,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,VibrationConfig,
+0,5,,2022-10-12 11:51:58 AM,false,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,VibrationConfig,
+2828,,,2022-10-12 11:52:01 AM,,,VibrationData,0.005500000435858965
+2841,,,2022-10-12 11:52:01 AM,,,VibrationData,0
+7784,,,2022-10-12 11:52:06 AM,,,VibrationData,0.010000000707805157
+7840,,,2022-10-12 11:52:06 AM,,,VibrationData,0
+8105,,,2022-10-12 11:52:06 AM,,,VibrationData,0.0005000000237487257
+8105,5,,2022-10-12 11:52:06 AM,true,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,VibrationConfig,
+,,"[""RhythmScene"",""RhythmScene"",""RhythmScene"",""RhythmScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""EyeContrastScene"",""EyeContrastScene"",""EyeContrastScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""VibrationScene"",""VibrationScene"",""VibrationScene""]",2022-10-12 11:52:13 AM,,147bce00-d1a4-4b8d-90b5-c0195cc6fa23,ApplicationQuit,

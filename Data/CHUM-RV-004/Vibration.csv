@@ -1,0 +1,23 @@
+Value.ElapsedTime,Value.Repetitions,Value.Scenario,Value.Time,Value.ToolEnded,Value.TrialID,Value.Type,Value.VibrationStrength
+0,5,,2022-09-28 12:25:12 PM,false,d39818f3-fae5-4345-b128-d72d47e8efe0,VibrationConfig,
+2770,,,2022-09-28 12:25:15 PM,,,VibrationData,0.005500000435858965
+5192,,,2022-09-28 12:25:17 PM,,,VibrationData,0.004500000271946192
+7490,,,2022-09-28 12:25:20 PM,,,VibrationData,0.004500000271946192
+9689,,,2022-09-28 12:25:22 PM,,,VibrationData,0.004500000271946192
+12070,,,2022-09-28 12:25:24 PM,,,VibrationData,0.005000000353902578
+12070,5,,2022-09-28 12:25:24 PM,true,d39818f3-fae5-4345-b128-d72d47e8efe0,VibrationConfig,
+0,5,,2022-09-28 12:25:31 PM,false,d39818f3-fae5-4345-b128-d72d47e8efe0,VibrationConfig,
+2828,,,2022-09-28 12:25:34 PM,,,VibrationData,0.005500000435858965
+2841,,,2022-09-28 12:25:34 PM,,,VibrationData,0
+5236,,,2022-09-28 12:25:36 PM,,,VibrationData,0.004500000271946192
+5264,,,2022-09-28 12:25:36 PM,,,VibrationData,0.0005000000237487257
+7951,,,2022-09-28 12:25:39 PM,,,VibrationData,0.005000000353902578
+7951,5,,2022-09-28 12:25:39 PM,true,d39818f3-fae5-4345-b128-d72d47e8efe0,VibrationConfig,
+0,5,,2022-09-28 12:25:48 PM,false,d39818f3-fae5-4345-b128-d72d47e8efe0,VibrationConfig,
+3007,,,2022-09-28 12:25:51 PM,,,VibrationData,0.005500000435858965
+3411,,,2022-09-28 12:25:51 PM,,,VibrationData,0.0010000000474974513
+5778,,,2022-09-28 12:25:54 PM,,,VibrationData,0.005000000353902578
+8242,,,2022-09-28 12:25:56 PM,,,VibrationData,0.004500000271946192
+10442,,,2022-09-28 12:25:58 PM,,,VibrationData,0.004500000271946192
+10442,5,,2022-09-28 12:25:58 PM,true,d39818f3-fae5-4345-b128-d72d47e8efe0,VibrationConfig,
+,,"[""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""EverydayTaskScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""FingerFollowScene"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""PegboardSphereScene_AutoHand"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""SpeechPerceptionScene"",""EyeContrastScene"",""EyeContrastScene"",""EyeContrastScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""FingerNoseScene"",""RhythmScene"",""RhythmScene"",""RhythmScene"",""RhythmScene"",""VibrationScene"",""VibrationScene"",""VibrationScene""]",2022-09-28 12:26:01 PM,,d39818f3-fae5-4345-b128-d72d47e8efe0,ApplicationQuit,
