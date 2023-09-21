@@ -1,0 +1,24 @@
+_id,Value.Time,Value.Type,Value.PatientID,Value.TrialID,Value.Scenario[0],Value.Scenario[1],Value.Scenario[2],Value.Scenario[3],Value.Scenario[4],Value.Scenario[5],Value.Scenario[6],Value.Scenario[7],Value.Scenario[8],Value.Scenario[9],Value.Scenario[10],Value.Scenario[11],Value.Scenario[12],Value.Scenario[13],Value.Scenario[14],Value.Scenario[15],Value.Scenario[16],Value.Scenario[17],Value.Scenario[18],Value.Scenario[19],Value.Scenario[20],Value.Scenario[21],Value.Scenario[22],Value.Scenario[23],Value.Scenario[24],Value.Scenario[25],Value.Scenario[26],Value.Scenario[27],Value.ElapsedTime,Value.ToolEnded,Value.Repetitions,Value.VibrationStrength
+64b68fb07acdcbb1f1adf1d9,2023-07-18 9:12:16 AM,ApplicationStart,Default,ce805990-3864-4522-8a9e-e19a85da1efb,FingerFollowScene,FingerFollowScene,FingerFollowScene,FingerFollowScene,SpeechPerceptionScene,SpeechPerceptionScene,SpeechPerceptionScene,FingerNoseScene,FingerNoseScene,FingerNoseScene,FingerNoseScene,EverydayTaskScene,EverydayTaskScene,EverydayTaskScene,EverydayTaskScene,EyeContrastScene,EyeContrastScene,EyeContrastScene,VibrationScene,VibrationScene,VibrationScene,PegboardSphereScene_AutoHand,PegboardSphereScene_AutoHand,PegboardSphereScene_AutoHand,RhythmScene,RhythmScene,RhythmScene,RhythmScene,,,,
+64b6925e7acdcbb1f1ae2115,2023-07-18 9:23:42 AM,VibrationConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,false,5,
+64b692617acdcbb1f1ae2117,2023-07-18 9:23:45 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3776,,,0.007500000763684511
+64b692617acdcbb1f1ae2119,2023-07-18 9:23:45 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3804,,,0
+64b692647acdcbb1f1ae211d,2023-07-18 9:23:48 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6539,,,0.005500000435858965
+64b692677acdcbb1f1ae211f,2023-07-18 9:23:51 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9219,,,0.005000000353902578
+64b692697acdcbb1f1ae2121,2023-07-18 9:23:53 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11621,,,0.005000000353902578
+64b692697acdcbb1f1ae2123,2023-07-18 9:23:53 AM,VibrationConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11621,true,5,
+64b6926f7acdcbb1f1ae2127,2023-07-18 9:23:59 AM,VibrationConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,false,5,
+64b692727acdcbb1f1ae2129,2023-07-18 9:24:02 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3181,,,0.0060000005178153515
+64b692757acdcbb1f1ae212b,2023-07-18 9:24:05 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5791,,,0.005500000435858965
+64b692787acdcbb1f1ae212f,2023-07-18 9:24:08 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8332,,,0.005000000353902578
+64b6927a7acdcbb1f1ae2131,2023-07-18 9:24:10 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10873,,,0.005000000353902578
+64b6927a7acdcbb1f1ae2133,2023-07-18 9:24:10 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10887,,,0
+64b6927a7acdcbb1f1ae2135,2023-07-18 9:24:10 AM,VibrationConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10887,true,5,
+64b6927e7acdcbb1f1ae2137,2023-07-18 9:24:14 AM,VibrationConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,false,5,
+64b692817acdcbb1f1ae213b,2023-07-18 9:24:17 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2820,,,0.005500000435858965
+64b692847acdcbb1f1ae213d,2023-07-18 9:24:20 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5347,,,0.005000000353902578
+64b692867acdcbb1f1ae213f,2023-07-18 9:24:22 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7916,,,0.005000000353902578
+64b692897acdcbb1f1ae2141,2023-07-18 9:24:25 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10401,,,0.005000000353902578
+64b6928b7acdcbb1f1ae2145,2023-07-18 9:24:27 AM,VibrationData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12969,,,0.005000000353902578
+64b6928b7acdcbb1f1ae2147,2023-07-18 9:24:27 AM,VibrationConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12970,true,5,
+64b6939b7acdcbb1f1ae394f,2023-07-18 9:28:59 AM,ApplicationQuit,Default,ce805990-3864-4522-8a9e-e19a85da1efb,FingerFollowScene,FingerFollowScene,FingerFollowScene,FingerFollowScene,SpeechPerceptionScene,SpeechPerceptionScene,SpeechPerceptionScene,FingerNoseScene,FingerNoseScene,FingerNoseScene,FingerNoseScene,EverydayTaskScene,EverydayTaskScene,EverydayTaskScene,EverydayTaskScene,EyeContrastScene,EyeContrastScene,EyeContrastScene,VibrationScene,VibrationScene,VibrationScene,PegboardSphereScene_AutoHand,PegboardSphereScene_AutoHand,PegboardSphereScene_AutoHand,RhythmScene,RhythmScene,RhythmScene,RhythmScene,,,,

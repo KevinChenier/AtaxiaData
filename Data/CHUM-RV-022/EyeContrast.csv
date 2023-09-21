@@ -1,0 +1,21 @@
+_id,Value.Time,Value.Type,Value.PatientID,Value.TrialID,Value.Scenario[0],Value.Scenario[1],Value.Scenario[2],Value.Scenario[3],Value.Scenario[4],Value.Scenario[5],Value.Scenario[6],Value.Scenario[7],Value.Scenario[8],Value.Scenario[9],Value.Scenario[10],Value.Scenario[11],Value.Scenario[12],Value.Scenario[13],Value.Scenario[14],Value.Scenario[15],Value.Scenario[16],Value.Scenario[17],Value.Scenario[18],Value.Scenario[19],Value.Scenario[20],Value.Scenario[21],Value.Scenario[22],Value.Scenario[23],Value.Scenario[24],Value.Scenario[25],Value.Scenario[26],Value.Scenario[27],Value.ElapsedTime,Value.ToolEnded,Value.Repetitions,Value.Contrast,Value.Letter,Value.Success
+64b68fb07acdcbb1f1adf1d9,2023-07-18 9:12:16 AM,ApplicationStart,Default,ce805990-3864-4522-8a9e-e19a85da1efb,FingerFollowScene,FingerFollowScene,FingerFollowScene,FingerFollowScene,SpeechPerceptionScene,SpeechPerceptionScene,SpeechPerceptionScene,FingerNoseScene,FingerNoseScene,FingerNoseScene,FingerNoseScene,EverydayTaskScene,EverydayTaskScene,EverydayTaskScene,EverydayTaskScene,EyeContrastScene,EyeContrastScene,EyeContrastScene,VibrationScene,VibrationScene,VibrationScene,PegboardSphereScene_AutoHand,PegboardSphereScene_AutoHand,PegboardSphereScene_AutoHand,RhythmScene,RhythmScene,RhythmScene,RhythmScene,,,,,,
+64b691b67acdcbb1f1ae20cb,2023-07-18 9:20:54 AM,EyeContrastConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,false,4,,,
+64b691c27acdcbb1f1ae20d1,2023-07-18 9:21:06 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12106,,,0.9845974445343018,X,true
+64b691ce7acdcbb1f1ae20d5,2023-07-18 9:21:18 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23686,,,0.984797477722168,V,true
+64b691d97acdcbb1f1ae20d9,2023-07-18 9:21:29 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35251,,,0.9845974445343018,H,true
+64b691e67acdcbb1f1ae20dd,2023-07-18 9:21:42 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48039,,,0.9849975109100342,H,true
+64b691e67acdcbb1f1ae20df,2023-07-18 9:21:42 AM,EyeContrastConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,48039,true,4,,,
+64b691ea7acdcbb1f1ae20e1,2023-07-18 9:21:46 AM,EyeContrastConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,false,4,,,
+64b691f57acdcbb1f1ae20e7,2023-07-18 9:21:57 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11552,,,0.984797477722168,H,true
+64b692017acdcbb1f1ae20eb,2023-07-18 9:22:09 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22882,,,0.9849975109100342,H,true
+64b6920c7acdcbb1f1ae20f3,2023-07-18 9:22:20 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34253,,,0.9852975606918335,V,true
+64b692177acdcbb1f1ae20f7,2023-07-18 9:22:31 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45222,,,0.9851975440979004,V,true
+64b692177acdcbb1f1ae20f9,2023-07-18 9:22:31 AM,EyeContrastConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45222,true,4,,,
+64b6921b7acdcbb1f1ae20fb,2023-07-18 9:22:35 AM,EyeContrastConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,false,4,,,
+64b692267acdcbb1f1ae2101,2023-07-18 9:22:46 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11400,,,0.9845974445343018,F,true
+64b692307acdcbb1f1ae2105,2023-07-18 9:22:56 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21300,,,0.9873979091644287,X,true
+64b6923a7acdcbb1f1ae2107,2023-07-18 9:23:06 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31004,,,0.9872978925704956,H,true
+64b692457acdcbb1f1ae210d,2023-07-18 9:23:17 AM,EyeContrastData,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42001,,,0.9851975440979004,F,true
+64b692457acdcbb1f1ae210f,2023-07-18 9:23:17 AM,EyeContrastConfig,Default,ce805990-3864-4522-8a9e-e19a85da1efb,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42001,true,4,,,
+64b6939b7acdcbb1f1ae394f,2023-07-18 9:28:59 AM,ApplicationQuit,Default,ce805990-3864-4522-8a9e-e19a85da1efb,FingerFollowScene,FingerFollowScene,FingerFollowScene,FingerFollowScene,SpeechPerceptionScene,SpeechPerceptionScene,SpeechPerceptionScene,FingerNoseScene,FingerNoseScene,FingerNoseScene,FingerNoseScene,EverydayTaskScene,EverydayTaskScene,EverydayTaskScene,EverydayTaskScene,EyeContrastScene,EyeContrastScene,EyeContrastScene,VibrationScene,VibrationScene,VibrationScene,PegboardSphereScene_AutoHand,PegboardSphereScene_AutoHand,PegboardSphereScene_AutoHand,RhythmScene,RhythmScene,RhythmScene,RhythmScene,,,,,,
